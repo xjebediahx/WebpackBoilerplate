@@ -1,0 +1,24 @@
+{
+  "name": "webpackboilerplate",
+  "version": "1.0.0",
+  "description": "Webpack-based FE build system with SASS and TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xjebediahx/WebpackBoilerplate.git"
+  },
+  "author": "Dirk Lippmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xjebediahx/WebpackBoilerplate/issues"
+  },
+  "homepage": "https://github.com/xjebediahx/WebpackBoilerplate#readme",
+  "devDependencies": {
+    "ts-loader": "^9.2.5",
+    "webpack": "^5.53.0",
+    "webpack-cli": "^4.8.0"
+  }
+}
